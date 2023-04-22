@@ -1,0 +1,8 @@
+make sure the repo is public
+
+get the url of the repo
+https://github.com/ciaranq/python.git
+
+
+add a new  repo via clone, 
+from the list of repe select add

@@ -11,3 +11,8 @@ then you need to go to organisations in github.com and accept the invitation
 
 to add a branch goto github desktop and create a branch pull, the branch and sync to you github repo.
 select the branch and make changes, commit
+
+if you wan to use a command line version of hit in windows, download the file from https://gitforwindows.org/
+and install, navigate to the directory that you keep you repos and use git commands
+you can use git status to check the current status of your branches
+ 
